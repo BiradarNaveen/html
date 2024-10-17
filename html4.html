@@ -1,0 +1,13 @@
+<html></html>
+    <head></head>
+    <body>
+        <img src="https://tse3.mm.bing.net/th?id=OIP.E7MIWGDYX5jgksf1AwVXpQHaEK&pid=Api&P=0&h=180" alt="kohli 50th century">
+        <img src="https://i.pinimg.com/originals/b0/b6/29/b0b629922c3a95da5bc35921bcf2983c.jpg" alt="luffy" width="300" height="300">
+        <a href="D:\10k tasks\clsroomwork" target=" _blank">open folder</a>
+        <iframe src="./html2.html" width="500" height="400"></iframe>
+        <iframe src="https://en.wikipedia.org/wiki/HTML" width="500" height="500"></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/33pAcOU-3Ew?si=6ppGxdv_Se9MuvS5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/5Vr9eW_kb6g?si=qii9BjRzvZCg6hbK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3804.2644788366647!2d78.48858030866094!3d17.542590328842845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb85b90951401b%3A0x869046078de5af0a!2sKompally%20Bus%20Stop!5e0!3m2!1sen!2sin!4v1727622827506!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </body>
+</html>

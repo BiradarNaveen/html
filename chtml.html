@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="c1.css">
+     <style>
+     h1{
+          background-color:gray;
+          color: black;
+     } 
+      h2{
+          background-color: lightcoral ;
+          color:white;
+     }
+     h3{
+         
+          color:red;}
+    p{
+        color: darkred;
+    }      
+     
+    </style>
+</head>
+<body>
+    <center>
+        <h1>Resume</h1>
+        <h2>Biradar Naveen</h2>
+        </center>
+      
+        <h1>Career Objective</h1>
+         <p>To work in the organization to expand my learning and skills for the organization goals and for myself </p>
+        <h1>Education</h1>
+         <h3> Bsc data science from SivaSivaniDegreeCollege</h3>
+         <h3> intermediate from sri vijaya sai jr.college </h3>
+         <h3> ssc from krishnaveni Talent School </h3>
+          
+        <h1>Technical Skills</h1>
+        <h2>Python</h2>
+        <h2>Html</h2>
+        <h1>Certifications</h1>
+        <h2>python<h/h2>
+      
+        <h1>languages</h1>
+         <h2>Telugu</h2>
+         <h2>hindi</h2>
+         <h2>English</h2>
+         <h2>Marathi</h2>
+        <h1>Project</h1>
+          <h2>Employee management system</h2>
+          <h2>passwords management system</h2>
+        <h1>Hobbies</h1>
+         <h2>Reading manga </h2>
+</body>
+</html>
